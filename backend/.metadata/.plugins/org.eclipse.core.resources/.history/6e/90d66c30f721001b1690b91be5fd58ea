@@ -1,0 +1,5 @@
+package com.sistemalima.dscatalog.dto;
+
+public class ProductDTO {
+
+}

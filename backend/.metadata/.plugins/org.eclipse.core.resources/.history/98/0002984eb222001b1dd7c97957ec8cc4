@@ -1,0 +1,20 @@
+package com.sistemalima.dscatalog.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.sistemalima.dscatalog.repositories.ProductRepository;
+
+// camada de serviço
+
+@Service
+public class ProductService {
+	
+	// dependencia para a camada de acesso a dados
+	
+	@Autowired
+	private ProductRepository repository;
+	
+	
+
+}

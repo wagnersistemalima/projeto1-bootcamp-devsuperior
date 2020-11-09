@@ -1,0 +1,5 @@
+package com.sistemalima.dscatalog.services;
+
+public class ProductService {
+
+}

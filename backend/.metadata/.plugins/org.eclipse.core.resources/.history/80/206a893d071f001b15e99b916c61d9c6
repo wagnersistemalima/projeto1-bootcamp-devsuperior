@@ -1,0 +1,5 @@
+package com.sistemalima.dscatalog.resources.exceptions;
+
+public class ResourceExceptionHandler {
+
+}
